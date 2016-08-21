@@ -4,14 +4,6 @@ import util.initialization as init
 import warmup
 import arrays
 
-def get_hmm():
-    """Get a thought."""
-    return 'hmmm...'
-
-def hmm():
-    """Contemplation..."""
-    print get_hmm()
-
 
 def main():
    print(init.random_int_list()) 
